@@ -25,5 +25,8 @@
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-![Snake animation](https://github.com/ellen2121/Devliviax/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ellen2121/Devliviax/blob/output/github-contribution-grid-snake.svg)
+  <div>
+  </div>
+
 
