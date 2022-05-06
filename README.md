@@ -26,5 +26,5 @@
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 </div>
   <div>
-      ![Snake animation](https://github.com/Devliviax/Devliviax/blob/output/github-contribution-grid-snake.svg)
+     ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   </div>
