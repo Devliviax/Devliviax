@@ -1,7 +1,4 @@
 <h1>Olá, mundo!</h1>
-<h4>Um dialogo/frase que eu amo e sempre índico, do filme interestelar.:shipit:</h4>
-<p>"Murph – Lei de Murphy? <br> Cooper – A Lei de Murphy não significa que uma coisa é ruim vai acontecer. Significa que tudo que possa dar acontecer, vai acontecer. E pra nós não tinha o menor problema."
-</p>
 <div> 
 <h2>Sobre me</h2>
 - 🔭  Eu trabalho como jovem aprendiz(aux.administrativo presidência)<br>
@@ -11,6 +8,12 @@
   <h4> 📱 rede sociais :</h4>
   <a href="http://www.instagram.com/livis.raw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" insta"></a>
 </div>
+<h4>Um dialogo/frase que eu amo e sempre índico, do filme interestelar.:shipit:</h4>
+<p>"Murph – Lei de Murphy? <br> Cooper – A Lei de Murphy não significa que uma coisa é ruim vai acontecer. Significa que tudo que possa dar acontecer, vai acontecer. E pra nós não tinha o menor problema." <img align="right"
+      src="https://media4.giphy.com/media/oPu2IgQHwb3Qk/200.webp?cid=ecf05e47c7eldp0h96v3d2ndmdije8v64en6rd350uavx32n&rid=200.webp&ct=g"
+      alt="girf esquilo"
+    />
+
 
 </div>
 <div align="center">
