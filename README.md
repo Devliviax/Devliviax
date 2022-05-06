@@ -9,11 +9,12 @@
   <a href="http://www.instagram.com/livis.raw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" insta"></a>
 </div>
 <h4>Um dialogo/frase que eu amo e sempre índico, do filme interestelar.:shipit:</h4>
+<div>
 <p>"Murph – Lei de Murphy? <br> Cooper – A Lei de Murphy não significa que uma coisa é ruim vai acontecer. Significa que tudo que possa dar acontecer, vai acontecer. E pra nós não tinha o menor problema." <img align="right"
-      src="https://media4.giphy.com/media/oPu2IgQHwb3Qk/200.webp?cid=ecf05e47c7eldp0h96v3d2ndmdije8v64en6rd350uavx32n&rid=200.webp&ct=g"
+      src="https://media3.giphy.com/media/gkI6oj31yarf2/giphy.webp?cid=ecf05e47yx3lq94eatbtzkbcic3g5p71nwchr8llg0jjy4iz&rid=giphy.webp&ct=g"
       alt="girf esquilo"
     />
-
+</div>
 
 </div>
 <div align="center">
