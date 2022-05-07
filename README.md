@@ -8,6 +8,7 @@
   <h4> 📱 rede sociais :</h4>
   <a href="http://www.instagram.com/livis.raw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" insta"></a>
 </div>
+<hr>
 <div class="girfesq">
 <h4>Um dialogo/frase que eu amo e sempre índico, do filme interestelar.:shipit:</h4>
 <p>"Murph – Lei de Murphy? <br> Cooper – A Lei de Murphy não significa que uma coisa é ruim vai acontecer. Significa que tudo que possa dar acontecer, vai acontecer. E pra nós não tinha o menor problema." <br> <img align="right" width="98px" heigth="88px"
@@ -15,7 +16,7 @@
       alt="girf esquilo"/>
 
 </div>
-<p>____________________________________________________________________________________________________________</p>
+<hr>
 <div align="center">
   <a href="https://github.com/Devliviax">
   <img height="150"  src="https://github-readme-stats.vercel.app/api?username=Devliviax&show_icons=true&theme=tokyonight"/>
