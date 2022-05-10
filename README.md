@@ -1,8 +1,8 @@
 <h1>Olá, mundo!</h1>
 <div> 
 <h2>Sobre me</h2>
-- 🔭  Eu trabalho como jovem aprendiz(aux.administrativo presidência)<br>
-- 🌱 Estudando ciencia da computação e curso de front-end<br>
+- 🔭  Eu trabalho como jovem aprendiz(aux.administrativo presidência)<br> 
+- 🌱 Estudando ciencia da computação e curso de front-end<br> <img align="right" width="98px" heigth="88px" src="https://user-images.githubusercontent.com/104855077/167697055-7ca18faf-86a8-4a61-bcf6-c8477254513d.png" alt="qr code do site projeto massa">
 - 📫 contate-me: liviaxavier200310@gmail.com<br>
 - 😄 Apelidos: livia, livis, chise, li ... livinha "mais comum é chise "<br>
   <h4> 📱 rede sociais :</h4>
