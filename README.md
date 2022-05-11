@@ -17,18 +17,22 @@
 
 </div>
 <hr>
-<div style="display:inline-flex"  align="left">
+<div>
   <a href="https://github.com/Devliviax">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devliviax&theme=tokyonight&hide_border=false&&layout=compact"/>
-    <img margin="5px"height="150"  src="https://github-readme-stats.vercel.app/api?username=Devliviax&show_icons=true&theme=tokyonight"/>
-</div>   
-<div  style="display:inline-flex"  align="center" ><br>
+  <img height="140" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devliviax&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=Devliviax&show_icons=true&theme=tokyonight"/>
+</div>
+  
+  <hr>
+<div  style="display:inline-block"  align="center" >
+ <br>
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
+  <br>
+
    ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
   
 </div>
