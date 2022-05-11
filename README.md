@@ -20,7 +20,7 @@
 <div>
   <a href="https://github.com/Devliviax">
   <img height="130" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devliviax&theme=tokyonight&hide_border=false&&layout=compact"/>
-    <img height="100" align="left" src="https://github-readme-stats.vercel.app/api?username=Devliviax&show_icons=true&theme=tokyonight"/>
+    <img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=Devliviax&show_icons=true&theme=tokyonight"/>
 </div>
   
   
