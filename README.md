@@ -13,7 +13,7 @@
 <h4>Um dialogo/frase que eu amo e sempre índico, do filme interestelar.:shipit:</h4>
 <p>"Murph – Lei de Murphy? <br> Cooper – A Lei de Murphy não significa que uma coisa é ruim vai acontecer. Significa que tudo que possa dar acontecer, vai acontecer. E pra nós não tinha o menor problema." <br> <img align="right" width="98px" heigth="88px"
       src="https://media4.giphy.com/media/oPu2IgQHwb3Qk/200.webp?cid=ecf05e47c7eldp0h96v3d2ndmdije8v64en6rd350uavx32n&rid=200.webp&ct=g"
-      alt="girf esquilo"/>
+      alt="girf esquilo"/><hr>
 
 </div>
 
