@@ -22,7 +22,7 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devliviax&theme=tokyonight&hide_border=false&&layout=compact"/>
     <img margin="5px"height="150"  src="https://github-readme-stats.vercel.app/api?username=Devliviax&show_icons=true&theme=tokyonight"/>
 </div>   
-<div  style="display: inline_block"  align="center" ><br>
+<div  style="display: inline_flex"  align="center" ><br>
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
