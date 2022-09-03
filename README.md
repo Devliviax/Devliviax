@@ -1,8 +1,9 @@
 <h1>Olá, mundo!</h1>
 <div> 
+  <!-- meu perfil  inicio -->
 <h2>Sobre me</h2>
 - 🔭  Eu trabalho como jovem aprendiz(aux.administrativo presidência)<br> 
-- 🌱 Estudando ciencia da computação e curso de front-end<br> <img align="right" width="98px" heigth="88px" src="https://user-images.githubusercontent.com/104855077/167697055-7ca18faf-86a8-4a61-bcf6-c8477254513d.png" alt="qr code do site projeto massa">
+- 🌱 Estudando ciencia da computação e curso de front-end<br> 
 - 📫 contate-me: liviaxavier200317@gmail.com<br>
 - 😄 Apelidos: livia, livis, chise, li ... livinha "mais comum é chise "<br>
   <h4> 📱 rede sociais :</h4>
@@ -16,13 +17,13 @@
       alt="girf esquilo"/><hr>
 
 </div>
-
+  <!-- m p final -->
 <div>
   <a href="https://github.com/Devliviax">
   <img height="100" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devliviax&theme=tokyonight&hide_border=false&&layout=compact"/>
     <img height="100" align="left" src="https://github-readme-stats.vercel.app/api?username=Devliviax&show_icons=true&theme=tokyonight"/>
 </div>
-  
+    <!-- inicio linguagens -->
   
 <div  style="display:inline-block"  align="center" ><br>
 
@@ -31,7 +32,7 @@
  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
+  <!-- fim linhuagens -->
    ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
   
 </div>
