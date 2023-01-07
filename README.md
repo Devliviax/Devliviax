@@ -5,7 +5,6 @@
 - 🔭  Eu trabalho como jovem aprendiz(aux.administrativo presidência)<br> 
 - 🌱 Estudando ciencia da computação e curso de front-end<br> 
 - 📫 contate-me: liviaxavier200317@gmail.com<br>
-- 😄 Apelidos: livia, livis, chise, li ... livinha "mais comum é chise "<br>
   <h4> 📱 rede sociais :</h4>
   <a href="http://www.instagram.com/livis.raw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" insta"></a>
 </div>
