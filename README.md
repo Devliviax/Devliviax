@@ -2,7 +2,7 @@
 <div> 
   <!-- meu perfil  inicio -->
 <h2>Sobre me</h2>
-- 🔭  Eu trabalho como jovem aprendiz(aux.administrativo presidência)<br> 
+- 🔭  Eu trabalho no financeiro<br> 
 - 🌱 Estudando ciencia da computação e curso de front-end<br> 
 - 📫 contate-me: liviaxavier200317@gmail.com<br>
   <h4> 📱 rede sociais :</h4>
